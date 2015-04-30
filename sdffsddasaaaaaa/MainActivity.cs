@@ -28,6 +28,7 @@ namespace sdffsddasaaaaaa
 			Console.WriteLine("hello");
 			Console.WriteLine ("dfhhfghghjh");
 			Console.WriteLine ("hello");
+			Console.WriteLine ("hgfhdgfhgfg");
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
